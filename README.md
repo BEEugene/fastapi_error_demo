@@ -1,6 +1,8 @@
 # Install 
+This project runs with Python 3.7 and was tested on Python 3.9. 
 
-postgresql
+
+## postgresql
 
 `sudo apt -y install postgresql; sudo -i -u postgres`
 
@@ -10,6 +12,7 @@ or
 
 `sudo service postgresql start`
 
+then
 
 `sudo -i -u postgres`
 
@@ -24,7 +27,7 @@ or
 `\q`
 
 ` exit`
-
+## Python 
 `pip install --upgrade pip`
 
 
